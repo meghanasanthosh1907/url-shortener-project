@@ -1,0 +1,26 @@
+.view-container {
+  max-width: 700px;
+  margin: auto;
+  padding: 20px;
+}
+
+.url-list {
+  list-style: none;
+  padding: 0;
+}
+
+.url-item {
+  border: 1px solid #ccc;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  border-radius: 8px;
+  background: #f9f9f9;
+}
+
+.url-item div {
+  margin-bottom: 0.5rem;
+}
+
+.btn-group button {
+  margin-right: 0.5rem;
+}
